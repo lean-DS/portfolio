@@ -1,0 +1,12 @@
+.git
+.github/
+Dockerfile
+cloudbuild.yaml
+README.md
+*.md
+*.yml
+*.yaml
+**/__pycache__/
+.ipynb_checkpoints/
+tests/
+notebooks/
