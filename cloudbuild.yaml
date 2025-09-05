@@ -7,3 +7,6 @@ images:
 
 substitutions:
   _IMAGE: 'europe-west1-docker.pkg.dev/investor-recommender/portfolio1/portfolio-app:latest'
+
+options:
+  logging: CLOUD_LOGGING_ONLY
